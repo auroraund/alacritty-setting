@@ -1,0 +1,12 @@
+[window]
+opacity = 0.85
+
+[cursor]
+style = "Beam"
+
+[font]
+normal = { family = "FiraCode", style = "Regular" }
+bold = { family = "FiraCode", style = "Bold" }
+italic = { family = "FiraCode", style = "Italic" }
+bold_italic = { family = "FiraCode", style = "Bold Italic" }
+size = 10.0
